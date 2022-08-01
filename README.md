@@ -124,3 +124,10 @@ https://rpacertified.medium.com/a-modern-git-flow-worfklow-diagram-5bae28bcdce6
 - **How will you communicate that it’s time to merge?**
 
 - We've scheduled that to take place at 4pm PT everyday
+
+### Domain Model
+![Domain Model - Pet Food Calculator](https://user-images.githubusercontent.com/108289379/182250931-0b4da425-cf64-4bab-b3ed-58c66b71cc30.JPG)
+
+### Wireframe
+![Pet Food Calculator (2)](https://user-images.githubusercontent.com/108289379/182251255-6a151622-cead-4ea1-8321-f0a17b297952.png)
+
