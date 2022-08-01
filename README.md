@@ -129,5 +129,6 @@ https://rpacertified.medium.com/a-modern-git-flow-worfklow-diagram-5bae28bcdce6
 ![Domain Model - Pet Food Calculator](https://user-images.githubusercontent.com/108289379/182250931-0b4da425-cf64-4bab-b3ed-58c66b71cc30.JPG)
 
 ### Wireframe
-![Pet Food Calculator (2)](https://user-images.githubusercontent.com/108289379/182251255-6a151622-cead-4ea1-8321-f0a17b297952.png)
+![Wireframe - Pet Food Calculator](https://user-images.githubusercontent.com/108289379/182252277-07adaecb-ae75-4e8b-9020-068ad3494ff9.JPG)
+
 
